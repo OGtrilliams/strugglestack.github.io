@@ -5,12 +5,13 @@ categories: resume
 ---
 
 ## T. Nichole Williams	
-[Contact Form(coming soon)][contact]	| (214)519-9156	| [/in/trilliams][linkedin]
+[Contact Form(coming soon)][contact]	| (214)519-9156 | [/in/trilliams][linkedin]
 
 ### Certifications & Skills
 
 - Red Hat Certified Systems Administrator
 - Red Hat Certified Systems Administrator in Red Hat OpenStack
+- Red Hat Certified Specialist in OpenShift Administration
 - Bash, core Java
 - Systems administration
 - Instructional design
@@ -62,7 +63,7 @@ categories: resume
 
 ##### Cloud Virtualization Administrator
 
-- Monitor and troubleshooting multi-tenant virtualized environments across several datacenter regions, using Openstack software, Xenserver and Xapi drivers. 
+- Monitor and troubleshoot multi-tenant virtualized environments across several datacenter regions, using Openstack software, Xenserver and Xapi drivers.
 - Assist customers with OS-level troubleshooting and configuration of both Windows and Linux environments.
 
 #### [Rackspace, Inc][rax] - San Antonio, Texas - November 2011 - December 2013
@@ -70,8 +71,8 @@ categories: resume
 ##### Customer Support Technician
 
 - Manage, troubleshoot and configure shared Microsoft Hosted Exchange 2003, 2008 R2, and 2010 environment
-- Assist customers of varying technical skill with configuration on desktops and mobile devices. 
-- Manage and troubleshoot Linux-based Rackspace Email and assist customers with local configuration. 
+- Assist customers of varying technical skill with configuration on desktops and mobile devices.
+- Manage and troubleshoot Linux-based Rackspace Email and assist customers with local configuration.
 - Troubleshoot Blackberry Enterprise Server configurations.
 
 

@@ -1,13 +1,12 @@
 ---
 layout: post
-title: Resume
+title: T. Nichole Williams | Resume
 categories: resume
 ---
 
-## T. Nichole Williams	
-[Contact Form(coming soon)][contact]	| (214)519-9156 | [/in/trilliams][linkedin]
+[Contact Form][contact]	| GVoice: (214)519-9156 | [/in/trilliams][linkedin]
 
-### Certifications & Skills
+## Certifications & Skills
 
 - Red Hat Certified Systems Administrator
 - Red Hat Certified Systems Administrator in Red Hat OpenStack
@@ -18,10 +17,10 @@ categories: resume
 - Lab environment design
 
 
-### Professional Experience
+## Professional Experience
 
-#### [Linux Academy][la-main] | Keller, Texas | January 2017 - present
-##### Course Author / Training Architect
+### [Linux Academy][la-main] | Keller, Texas | January 2017 - present
+#### Course Author / Training Architect
 - Develop e-learning content including: 
 	- Instructional videos
 	- Quizzes
@@ -30,7 +29,7 @@ categories: resume
 - Develop and code of labs for OpenStack, OpenShift, and Docker environments using Bash and Ansible. 
 - Assist students of varying technical levels in mastery of OpenStack, OpenShift and Docker concepts.
 
-##### Published courses:
+#### Published courses:
 - [Docker Quest - SpaceBones 2 - The Quest for More Yummies][docker] July, 2018
 - [CoreOS Essentials][coreos] - April, 2018
 - [Linux Academy Certificate of Specialty in Platform-as-a-Service (ex280) prep course][ex280] - November, 2017
@@ -38,9 +37,9 @@ categories: resume
 - [OpenStack Essentials][osessentials] - February, 2017
 - [OpenStack Magnum Containers][magnum] - January, 2017
 
-#### [Linux Academy][la-main] | Keller, Texas | July 2018 - January 2019
+### [Linux Academy][la-main] | Keller, Texas | July 2018 - January 2019
 
-##### Technical Evangelist-
+#### Technical Evangelist-
 - Attend and participate in meetups, conferences, and other speaking engagements
 - Develop e-learning content including:-
 >-------- Instructional videos
@@ -59,16 +58,16 @@ categories: resume
 - (Hands-on Workshop) [It’s a PaaS - OpenShift vs. Kubernetes on OpenStack][issapass] - OpenStack Summit Berlin 2018
 - (Lightning Talk) [Stacks on Stacks on Stacks - OpenShift, OpenStack, & Why They’re Best Friends][staxonstax] - OpenStack Summit Berlin 2018
 
-#### [Rackspace, Inc][rax] - San Antonio, Texas - December 2013 - November 2016
+### [Rackspace, Inc][rax] - San Antonio, Texas - December 2013 - November 2016
 
-##### Cloud Virtualization Administrator
+#### Cloud Virtualization Administrator
 
 - Monitor and troubleshoot multi-tenant virtualized environments across several datacenter regions, using Openstack software, Xenserver and Xapi drivers.
 - Assist customers with OS-level troubleshooting and configuration of both Windows and Linux environments.
 
-#### [Rackspace, Inc][rax] - San Antonio, Texas - November 2011 - December 2013
+### [Rackspace, Inc][rax] - San Antonio, Texas - November 2011 - December 2013
 
-##### Customer Support Technician
+#### Customer Support Technician
 
 - Manage, troubleshoot and configure shared Microsoft Hosted Exchange 2003, 2008 R2, and 2010 environment
 - Assist customers of varying technical skill with configuration on desktops and mobile devices.
@@ -76,18 +75,18 @@ categories: resume
 - Troubleshoot Blackberry Enterprise Server configurations.
 
 
-#### [Volt, Inc][volt] - San Antonio, Texas -  March 2011 - November 2011
+### [Volt, Inc][volt] - San Antonio, Texas -  March 2011 - November 2011
 
-##### Technical Support Representative
+#### Technical Support Representative
 
 - Assist customers of varying technical skill levels with troubleshooting and repairing home internet, VOIP phone and entertainment systems
 - Management of a small team
 
-### Education
+## Education
 
 University of the Incarnate Word - June, 2009 - Bachelors of Arts
 
-### Open Source & Community Projects
+## Open Source & Community Projects
 
 - Contributor -- [OpenStack Magnum][magnum2] -- Update code to function with Glance v2.0 API
 - Contributor -- OpenStack PackStack -- Add dashboard integration for Magnum, Trove, Sahara, & Heat
@@ -95,7 +94,7 @@ University of the Incarnate Word - June, 2009 - Bachelors of Arts
 - Creator -- [Pink Penguins][pinkpengs] -- Group for underrepresented groups in technical fields
 - OpenStack Track Chair -- OpenStack Summit Berlin 2018 -- Aid in selection & organization of speakers for the Container Infrastructure track
 
-### Organizations
+## Organizations
 
 - [OpenShift Commons][commons] - May 2017 - Present
 - [OpenStack Foundation][profile] - April 2016 - Present
@@ -103,7 +102,7 @@ University of the Incarnate Word - June, 2009 - Bachelors of Arts
 	- Active User Contributor
 - [Women of OpenStack][woo] - January 2016 - Present
 
-### Availability
+## Availability
 
 - Available for relocation and travel
 - References upon request

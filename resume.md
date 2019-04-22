@@ -128,4 +128,4 @@ University of the Incarnate Word - June, 2009 - Bachelors of Arts
 [stackalytics]: http://stackalytics.com/?user_id=trilliams&release=all
 [commons]: https://commons.openshift.org
 [operators]: https://linuxacademy.com/linux/training/course/name/red-hat-open-shift
-[contact]: #
+[contact]: contact.html

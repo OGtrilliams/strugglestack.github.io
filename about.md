@@ -4,8 +4,6 @@ title: About T. Nichole Williams
 categories: introduction about
 ---
 
-## AcademyBytes
-#### Brought to you by Trilliams Professional Services
 
 ![goggy-and-me](https://i.imgur.com/aipYaOq.jpg)
 

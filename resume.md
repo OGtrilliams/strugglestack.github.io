@@ -11,7 +11,7 @@ categories: resume
 - Red Hat Certified Systems Administrator
 - Red Hat Certified Systems Administrator in Red Hat OpenStack
 - Red Hat Certified Specialist in OpenShift Administration
-- Bash, core Java
+- Bash, core Java, Ansible
 - Systems administration
 - Instructional design
 - Lab environment design
@@ -19,7 +19,7 @@ categories: resume
 
 ## Professional Experience
 
-### [Linux Academy][la-main] | Keller, Texas | January 2017 - present
+### [Linux Academy][la-main] | Keller, Texas | January 2017 - June 2019
 #### Course Author / Training Architect
 - Develop e-learning content including: 
 	- Instructional videos

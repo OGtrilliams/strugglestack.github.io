@@ -41,11 +41,11 @@ categories: resume
 
 #### Technical Evangelist-
 - Attend and participate in meetups, conferences, and other speaking engagements
-- Develop e-learning content including:-
->-------- Instructional videos
->-------- Quizzes
->-------- Study guides
->-------- Supplemental study materials
+- Develop e-learning content including:
+	- Instructional videos
+	- Quizzes
+	- Study guides
+	- Supplemental study materials
 - Develop and code of labs for OpenStack & OpenShift environments using Bash and Ansible.-
 - Assist students of varying technical levels in mastery of OpenStack, OpenShift and Docker concepts.
 

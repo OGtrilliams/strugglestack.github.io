@@ -5,9 +5,8 @@ title: Conferences -&- Events
 
 ### Find Trilliams!
 
-As a technical ~~evalangist~~ evangelist I get to travel a lot to various
-conferences centered around Open Source projects. Below is a list of projected
-conferences I will be attending in 2018, accompanied by my trusty therapy dog
+As a Professional Geek™ I get to travel a lot to various
+conferences centered around Open Source projects. Below is a list of past, present, & future projected conferences I will be attending, accompanied by my trusty therapy dog
 (in training), [Sir Hairold B. Goggington III][goggy]. If you see us, come say hi!
 
 ### Conferences
@@ -16,6 +15,12 @@ conferences I will be attending in 2018, accompanied by my trusty therapy dog
 - [OpenStack Summit - Berlin, Germany][berlin] - November 13-15th, 2018
 - [OpenShift Commons Gathering - Seattle, WA][ocg18] - December 10th, 2018
 - [KubeCon North America - Seattle, WA][kube18] - December 10-13th, 2018
+- [Open Infrastructure Summit - Denver, CO][oiden] - April 29-May 1, 2019
+- [OpenStack Project Teams Gathering - Denver, CO][ptg] - May 2-4, 2019
+- [Red Hat Summit - Boston, MA][rhs2019] - May 5-9, 2019
+- [AnsibleFest 2019][ansible2019] - September 24-26, 2019
+- [Open Infrastructure Summit - Shanghai, CN][oicn] - November 4-6, 2019
+- [OpenStack Project Teams Gathering - Shanghai, CN][ptg] - November 5-8, 2019
 
 ### Presentations
 
@@ -23,6 +28,7 @@ conferences I will be attending in 2018, accompanied by my trusty therapy dog
   Friends][22041] - OpenStack Summit Berlin, November 14, 2018
 - [It's a PaaS! OpenShift vs. Kubernetes on OpenStack][22003] - OpenStack
   Summit Berlin, November 15, 2018
+- [Diversity Luncheon Panel - Ansiblefest 2019][ansible2019] - September 26, 2019
 
 ### Videos
 
@@ -63,3 +69,8 @@ conferences I will be attending in 2018, accompanied by my trusty therapy dog
 [woo]: https://wiki.openstack.org/wiki/Women_of_OpenStack
 [woocast]: http://3e0938c72320c1e97db5-a29d7d5063cc8716c60b936b269f2da7.r31.cf1.rackcdn.com/woo%20cfp%20talk.mp3
 [clh]: #
+[oiden]: https://www.openstack.org/summit/denver-2019
+[ptg]: https://www.openstack.org/ptg/
+[ansible2019]: https://www.ansible.com/ansiblefest
+[oicn]: https://www.openstack.org/summit/shanghai-2019/
+[rhs2019]: https://www.redhat.com/en/summit/2019

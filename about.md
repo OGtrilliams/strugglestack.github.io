@@ -1,14 +1,16 @@
 ---
 layout: post
 title: About T. Nichole Williams
-categories: introduction about
+categories: about
 ---
 
 
 ![goggy-and-me](https://i.imgur.com/aipYaOq.jpg)
 
-T. Nichole Williams is an RHCSA 7 Certified Linux and OpenStack sysadmin and ~~Instructor~~ ~~Content Author~~ ~~Technical Evangelist~~ Training Architect for [Linux Academy][la]. Before joining Linux Academy, Treva was a Cloud Virtualization Administrator with [Rackspace][rax] managing a multi-region, multi-tenant public cloud infrastructure using OpenStack & Xen software. Treva was an OpenStack [active technical contributor][profile] to OpenStack Pike, is currently an Active User Contributor, public speaker, and is active in several OpenStack, RDO, Ansible, & OpenShift communities and groups. When not OpenStacking or OpenShifting, Treva enjoys doggos, candy, cartoons, and playing "So You Think You're a Marine Biologist" on Google.
+Treva Nichole Williams is a Red Hat certified Linux, OpenStack, & OpenShift sysadmin, [instructor][la], & dedicated Open Source evangelist. Before venturing into the field of online learning, Treva spent 5 years managing [Rackspace][rax]’s multi-region, multi-tenant public cloud infrastructure as a Cloud Virtualization administrator. Treva is an OpenStack [active technical contributor][profile] & Active User Contributor, and is active in several OpenStack, RDO, OpenShift and Ceph communities and groups. When not OpenStacking, OpenShifting, or Cephing, Treva enjoys [doggos][goggy], candy, cartoons, and playing "So You Think You're a Marine Biologist" on Google.
+
 
 [profile]: https://www.openstack.org/community/members/profile/59069/treva-williams
 [la]: https://linuxacademy.com
 [rax]: https://rackspace.com
+[goggy]: https://www.instagram.com/goggy3stax/?hl=en

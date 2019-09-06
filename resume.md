@@ -107,6 +107,8 @@ University of the Incarnate Word - June, 2009 - Bachelors of Arts
 - Available for relocation and travel
 - References upon request
 
+[Back to homepage][back]
+
 [woo]: https://wiki.openstack.org/wiki/Women_of_OpenStack
 [la-main]: https://linuxacademy.com
 [rax]: https://rackspace.com
@@ -128,3 +130,4 @@ University of the Incarnate Word - June, 2009 - Bachelors of Arts
 [commons]: https://commons.openshift.org
 [operators]: https://linuxacademy.com/linux/training/course/name/red-hat-open-shift
 [contact]: contact.html
+[back]: https://strugglestack.org

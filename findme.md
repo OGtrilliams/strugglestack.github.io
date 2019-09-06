@@ -41,7 +41,8 @@ conferences centered around Open Source projects. Below is a list of past, prese
 - [Linux Academy Livestream - Happy 8th Birthday OpenStack!][os8th]
 - [Linux Academy Livestream - Docker & Google content][lalivestream]
 - [Demo - Installing OpenShift v3.9 on OpenStack PackStack][osdemo] -
-  OpenStack Summit Berlin
+  OpenStack Summit Denver 2019
+
 
 ### Podcasts
 
@@ -49,9 +50,13 @@ conferences centered around Open Source projects. Below is a list of past, prese
 - **Coming Soon**: [Commandline Heros @ Red Hat Summit 2018][clh]
 
 
+[Back to homepage][back]
+
+[back]: https://strugglestack.org
 [kube18]: https://events.linuxfoundation.org/events/kubecon-cloudnativecon-north-america-2018/
 [ocg18]: https://commons.openshift.org/gatherings/Seattle_2018.html
-[osdemo]: https://youtu.be/Hshndx23oEc
+[osdemo]: https://www.youtube.com/watch?v=p5tcgoI5rUg
+[osdemo1]: https://youtu.be/Hshndx23oEc
 [goggy]: https://instagram.com/goggy3stax/
 [ptgvid1]: https://www.youtube.com/watch?v=UnOnDWsU4RI&t=5s
 [laquestions]: https://www.youtube.com/watch?v=8XYCfTo_ZsY
